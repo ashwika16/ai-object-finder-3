@@ -1,0 +1,40 @@
+body{
+    background: cover;
+}
+
+.heading{
+    background-color: fuchsia;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+    font-size: 32px;
+    color:honeydew;
+    word-spacing: 3px;
+    margin:0;
+    width: 100%;
+}
+
+canvas{
+    border:5px solid gray;
+    border-radius: 5px;
+    margin-top: 80px;
+}
+#numberofobjects,#status{
+    font-size: 18px;
+}
+
+button{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+#footer{
+    width: 100%;
+    position: fixed;
+    color: rgb(27, 239, 16);
+    background-color: white;
+    bottom: 0;
+    line-height: 3;
+}
+.heading span{
+    font-size: 16px;
+}
